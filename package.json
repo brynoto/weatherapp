@@ -6,7 +6,7 @@
   "homepage": "https://brynoto.github.io/weatherapp",
   "scripts": {
     "sass": "echo \"Hello!\"",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d weatherapp"
   },
   "author": "Rhey Bryan Noto",
   "license": "ISC",
